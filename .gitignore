@@ -18,3 +18,9 @@ AR/.venv/
 # Exports / outputs
 exports/
 *.log
+
+# virtualenv
+AR/.venv/
+.venv/
+__pycache__/
+.DS_Store
